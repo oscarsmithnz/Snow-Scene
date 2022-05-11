@@ -1,0 +1,13 @@
+﻿  animation.c
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(142): warning C4013: 'time' undefined; assuming extern returning int
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(287): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(288): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(346): warning C4305: 'function': truncation from 'double' to 'float'
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(426): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(546): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(557): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(561): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+d:\projects\graphics programming\snow scene assignment\snow scene assignment\animation.c(571): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Snow Scene Assignment.vcxproj -> D:\Projects\Graphics Programming\Snow Scene Assignment\Debug\Snow Scene Assignment.exe
+  D:\Projects\Graphics Programming\Snow Scene Assignment\Snow Scene Assignment\freeglut\bin\freeglut.dll
+  1 File(s) copied
